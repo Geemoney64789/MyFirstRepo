@@ -1,4 +1,4 @@
+This a new text file. 
 Hello World.
 I am once again pulling at this knotted mess which I have created.
-Third times a charm they say. Ha!
--------
+Third times a charm they say.
