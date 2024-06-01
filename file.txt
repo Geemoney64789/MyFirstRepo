@@ -1,4 +1,7 @@
 Hello World.
 I am once again pulling at this knotted mess which I have created.
 Third times a charm they say. Ha!
--------
+Now I have created a new branch for this project.
+The point being I can alter, modify, add to, or delete code from this branch without it ever affecting the main or original project. 
+I would say call it a safe space to experiment with my project without damaging my original code. 
+Atleast this is the way I have made it make sense in my mind.
